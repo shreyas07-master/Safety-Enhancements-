@@ -1,2 +1,3 @@
-# Safety-Enhancements-
-Role of automation and robotics in safety measurements and enhancements
+# Robotic arm
+Role of robotic arm in robitcs and automation.
+
